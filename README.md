@@ -7,4 +7,9 @@ You can change the lat and long to your location and find the nearest meteor lan
 
 This project required Python 3 and the requests package.
 
-`python3 find_meteors.py`
+First, instsll pipenv. Then:
+
+```
+pipenv intall
+pipenv run "python find_meteors.py"
+```
