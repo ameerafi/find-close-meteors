@@ -11,5 +11,5 @@ First, instsll pipenv. Then:
 
 ```
 pipenv intall
-pipenv run "python find_meteors.py"
+pipenv run "python meteor/find_meteors.py"
 ```
